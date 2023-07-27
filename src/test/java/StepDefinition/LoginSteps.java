@@ -14,6 +14,7 @@ public class LoginSteps {
 	@When("user enters username and password")
 	public void user_enters_username_and_password() {
 		System.out.println("When statement");
+		System.out.println("When again");
 	}
 
 	@And("clicks on login button")
