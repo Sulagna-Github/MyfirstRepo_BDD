@@ -25,5 +25,6 @@ public class LoginSteps {
 	@Then("user is navigated to home page")
 	public void user_is_navigated_to_home_page() {
 		System.out.println("Then statement");
+		System.out.println("Again then statement");
 	}
 }
